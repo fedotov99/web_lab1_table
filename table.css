@@ -1,0 +1,17 @@
+h1 {
+    text-shadow: 3px 3px 3px gray;
+}
+
+table {
+    border: 2px solid #000
+}
+
+th {text-align: left; 
+    padding: 8px; 
+    border: 1px solid #aaa 
+}
+
+td {text-align: left; 
+    padding: 8px; 
+    border: 1px solid #aaa
+}
